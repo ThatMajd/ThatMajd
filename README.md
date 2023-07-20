@@ -18,7 +18,5 @@ Here are some of the projects I have worked on:
 I'm always open to networking and collaborating on interesting projects. You can reach me via:
 - [Email](mailto:majdb594@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/majd-bishara-65844a219/)
-- Twitter: [Your Twitter handle]
-- [Add any other relevant social media or contact information]
 
 Feel free to explore my repositories, contribute to projects, or suggest ideas for future projects. Thanks for visiting my GitHub profile! 😄
